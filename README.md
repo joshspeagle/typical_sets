@@ -19,4 +19,4 @@ notebook to outline basic sampling logic and allow any interested users to
 experiment with modifications. Users are encouraged to play around with the
 code to help build intuition.
 
-A version of these results are presented in a `talk <https://speakerdeck.com/joshspeagle/typical-sets-what-they-are-and-how-to-hopefully-find-them>`_ presented during `AstroStat Day <http://hea-www.harvard.edu/AstroStat/AstroStatDay/>`_ at the Harvard-Smithsonian Center for Astrophysics on September 20, 2017.
+A version of these results are presented in a [talk](https://speakerdeck.com/joshspeagle/typical-sets-what-they-are-and-how-to-hopefully-find-them) presented during [AstroStat Day](http://hea-www.harvard.edu/AstroStat/AstroStatDay/) at the Harvard-Smithsonian Center for Astrophysics on September 20, 2017.
